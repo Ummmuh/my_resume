@@ -147,6 +147,10 @@
     margin-left: 2rem;
     line-height: 2;
 }
+.project_link{
+   color: rgb(41, 164, 221);
+   text-decoration: underline;
+}
 .ref_item{
     margin-top: 2rem;
 }
@@ -161,4 +165,7 @@
 /* benevolat */
 .benevolat_item{
     margin-top: 2rem;
+}
+.ref, .hobbies{
+   margin-top: 5rem;
 }
